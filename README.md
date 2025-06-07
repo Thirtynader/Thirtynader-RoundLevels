@@ -29,7 +29,7 @@ The built-in **sound alert system** ensures you don’t miss key trading opportu
 
 ## 📥 Download
 
-👉 [Download Indicator (.ex5)](./Thirtynader-RoundLevels-With-Alert.ex5)
+👉 [Download Indicator (.ex5)](./Thirtynader-RoundLevels.ex5)
 
 ## 📂 How to Use
 1. Copy the `.ex5` file into your MetaTrader 5 `Indicators` directory.
