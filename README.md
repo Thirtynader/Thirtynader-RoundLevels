@@ -21,12 +21,11 @@ The built-in **sound alert system** ensures you don’t miss key trading opportu
 ---
 
 ### 🔹 Examples of trading setups around these levels
-![Setups](./Screenshot%202025-06-07%20162515.png)
-
+![Inputs Panel](./Screenshot%202025-06-07%20162648.png)
 ---
 
 ### 🔹 Customizable Inputs
-![Inputs Panel](./Screenshot%202025-06-07%20162648.png)
+![Setups](./Screenshot%202025-06-07%20162515.png)
 
 ## 📥 Download
 
